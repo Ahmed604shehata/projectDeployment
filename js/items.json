@@ -1,7 +1,6 @@
 [
     {
       "id": 0,
-
       "img": "/images/products/0dfceb29a3db4dfc04f58611317747ef.jpg",
     "img_hover": "/images/products/0dfceb29a3db4dfc04f58611317747ef.jpg",
       "name": "Original Football Foots",
@@ -11,7 +10,7 @@
     {
       "id": 1,
       "img": "/images/products/5c3f8c40528b690e9ea576012052a3ab.jpg",
-      "img_hover": "/e-co/images/products/5c3f8c40528b690e9ea576012052a3ab.jpg",
+      "img_hover": "/images/products/5c3f8c40528b690e9ea576012052a3ab.jpg",
       "name": "Original Football Foots",
       "price": 100,
       "old_price": 120
